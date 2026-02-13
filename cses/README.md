@@ -4,14 +4,14 @@ Soluciones a problemas del [CSES Problem Set](https://cses.fi/problemset/).
 
 ## Progreso
 
-**Total resueltos:** 1 / 300
+**Total resueltos:** 2 / 300
 
-## Introductory Problems (1/19)
+## Introductory Problems (2/19)
 
 | # | Problema | Solución | Dificultad | Tags |
 |---|----------|----------|------------|------|
 | ✅ | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](introductory/weird_algorithm.cpp) · [Doc](introductory/weird_algorithm.md) | Fácil | simulation |
-| ⬜ | Missing Number | - | Fácil | math |
+| ✅ | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](introductory/missing_number.cpp) · [Doc](introductory/missing_number.md) | Fácil | math |
 | ⬜ | Repetitions | - | Fácil | implementation |
 | ⬜ | Increasing Array | - | Fácil | greedy |
 | ⬜ | Permutations | - | Fácil | constructive |
