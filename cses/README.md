@@ -12,7 +12,7 @@ Soluciones a problemas del [CSES Problem Set](https://cses.fi/problemset/).
 |---|----------|----------|------------|------|
 | ✅ | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](introductory/weird_algorithm.cpp) · [Doc](introductory/weird_algorithm.md) | Fácil | simulation |
 | ✅ | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](introductory/missing_number.cpp) · [Doc](introductory/missing_number.md) | Fácil | math |
-| ⬜ | Repetitions | - | Fácil | implementation |
+| ✅ | [Repetitions](https://cses.fi/problemset/task/1069) | [C++](introductory/repetititons.cpp) | Fácil | implementation |
 | ⬜ | Increasing Array | - | Fácil | greedy |
 | ⬜ | Permutations | - | Fácil | constructive |
 
